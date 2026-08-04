@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 himanshu-00
+# 🎯 HIMANSHU-00
 
 ### My First Step Into Version Control
 
