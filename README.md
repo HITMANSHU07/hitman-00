@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 HIMANSHU-00
+# 🎯 HIMANSHU-07
 
 ### My First Step Into Version Control
 
@@ -13,20 +13,20 @@
 
 ---
 
-## 📖 About This Repository
+### 📖 About This Repository
 
 This is my **first-ever Git repository** — the humble starting point of my coding journey. 
 
 Every developer remembers their first `git init`, their first `git commit`, and their first `git push`. This repo marks that milestone for me.
 
-## 🌱 What I Learned Here
+### 🌱 What I Learned Here
 
 - ✅ Initializing a local Git repository
 - ✅ Making my first commit
 - ✅ Pushing code to GitHub
 - ✅ Understanding the basics of version control
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 **Himanshu Kumar**
 
