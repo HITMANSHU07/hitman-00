@@ -1,43 +1,28 @@
 <div align="center">
 
-# 🎯 HIMANSHU-07
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=61DAFB&center=true&vcenter=true&width=650&height=60&lines=Welcome+to+HIMANSHU-07+%F0%9F%9A%80;My+First+Step+Into+Version+Control;Where+The+Developer+Journey+Began+%E2%9C%A8" alt="Typing SVG" />
 
-### My First Step Into Version Control
+  <p align="center">
+    <i>"Every expert was once a beginner. This repository marks the very first step."</i>
+  </p>
 
-*Where every developer's journey begins...*
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Milestone-First_Repository-6366F1?style=for-the-badge&logo=target" alt="Milestone" />
+    <img src="https://img.shields.io/badge/Status-Archived_Milestone-10B981?style=for-the-badge" alt="Status" />
+  </p>
 
 </div>
 
 ---
 
-### 📖 About This Repository
+### 📖 The Milestone Story
 
-This is my **first-ever Git repository** — the humble starting point of my coding journey. 
+This repository represents the foundation of my software engineering journey. Every developer remembers the thrill of running their very first set of terminal commands: initializing a local directory, committing code, and pushing it to the cloud.
 
-Every developer remembers their first `git init`, their first `git commit`, and their first `git push`. This repo marks that milestone for me.
-
-### 🌱 What I Learned Here
-
-- ✅ Initializing a local Git repository
-- ✅ Making my first commit
-- ✅ Pushing code to GitHub
-- ✅ Understanding the basics of version control
-
-### 👨‍💻 Author
-
-**Himanshu Kumar**
-
-- 🔗 [LinkedIn](https://linkedin.com/in/himanshu-kumar-09139330a)
-- 📧 [Email](mailto:himanshujonsingh570@gmail.com)
-- 💻 [GitHub Profile](https://github.com/HITMANSHU07)
-
----
-
-<div align="center">
-
-*"Every expert was once a beginner. This is where I began."* 🚀
-
-</div>
+```bash
+git init
+git add .
+git commit -m "First commit: Hello World!"
+git push -u origin main
