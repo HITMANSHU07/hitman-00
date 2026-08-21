@@ -22,7 +22,7 @@
 This repository represents the foundation of my software engineering journey. Every developer remembers the thrill of running their very first set of terminal commands: initializing a local directory, committing code, and pushing it to the cloud.
 
 ```bash
-git init
-git add .
-git commit -m "First commit: Hello World!"
-git push -u origin main
+#git init
+#git add .
+#git commit -m "First commit: Hello World!"
+#git push -u origin main
